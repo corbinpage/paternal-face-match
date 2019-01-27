@@ -1,0 +1,25 @@
+{
+  "name": "paternal-face-match",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corbinpage/paternal-face-match.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corbinpage/paternal-face-match/issues"
+  },
+  "homepage": "https://github.com/corbinpage/paternal-face-match#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "node-rekognition": "^0.4.0",
+    "pdf-image": "^2.0.0"
+  }
+}
